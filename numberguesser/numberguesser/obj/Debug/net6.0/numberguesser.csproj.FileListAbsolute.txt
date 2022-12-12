@@ -1,0 +1,15 @@
+D:\serverless fast api with aws lambda\numberguesser\numberguesser\bin\Debug\net6.0\numberguesser.exe
+D:\serverless fast api with aws lambda\numberguesser\numberguesser\bin\Debug\net6.0\numberguesser.deps.json
+D:\serverless fast api with aws lambda\numberguesser\numberguesser\bin\Debug\net6.0\numberguesser.runtimeconfig.json
+D:\serverless fast api with aws lambda\numberguesser\numberguesser\bin\Debug\net6.0\numberguesser.dll
+D:\serverless fast api with aws lambda\numberguesser\numberguesser\bin\Debug\net6.0\numberguesser.pdb
+D:\serverless fast api with aws lambda\numberguesser\numberguesser\obj\Debug\net6.0\numberguesser.csproj.AssemblyReference.cache
+D:\serverless fast api with aws lambda\numberguesser\numberguesser\obj\Debug\net6.0\numberguesser.GeneratedMSBuildEditorConfig.editorconfig
+D:\serverless fast api with aws lambda\numberguesser\numberguesser\obj\Debug\net6.0\numberguesser.AssemblyInfoInputs.cache
+D:\serverless fast api with aws lambda\numberguesser\numberguesser\obj\Debug\net6.0\numberguesser.AssemblyInfo.cs
+D:\serverless fast api with aws lambda\numberguesser\numberguesser\obj\Debug\net6.0\numberguesser.csproj.CoreCompileInputs.cache
+D:\serverless fast api with aws lambda\numberguesser\numberguesser\obj\Debug\net6.0\numberguesser.dll
+D:\serverless fast api with aws lambda\numberguesser\numberguesser\obj\Debug\net6.0\refint\numberguesser.dll
+D:\serverless fast api with aws lambda\numberguesser\numberguesser\obj\Debug\net6.0\numberguesser.pdb
+D:\serverless fast api with aws lambda\numberguesser\numberguesser\obj\Debug\net6.0\numberguesser.genruntimeconfig.cache
+D:\serverless fast api with aws lambda\numberguesser\numberguesser\obj\Debug\net6.0\ref\numberguesser.dll
